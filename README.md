@@ -4,7 +4,7 @@
 
 # Архитектура решения
 
-![Иллюстрация к проекту](![image](https://github.com/llitone/rutube-video-captioning/assets/61351134/f01f3573-242c-4978-858e-5cd4852ac7ff))
+![Иллюстрация к проекту](![image](https://github.com/llitone/rutube-video-captioning/assets/61351134/6b5c9b29-c0da-4e43-b148-a8d651b9aa38))
 
 # Использованные технологии
 
